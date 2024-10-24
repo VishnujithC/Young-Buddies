@@ -11,3 +11,13 @@ function checkAnswer() {
         document.getElementById("correct").innerHTML = '<h1>Oops.Try again</h1>';
     }
 }
+
+// var x= new XMLHttpRequest();
+// x.onload = function(){
+//     if(x.status===200){
+
+//     }
+// };
+// x.open('GET',"data/data.html",true);
+// x.send(null);
+
